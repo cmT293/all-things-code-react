@@ -27,7 +27,7 @@ class App extends Component {
 
 render(){
 	var test = "new"
-	return "test"
+	return test
 }
 	
 
